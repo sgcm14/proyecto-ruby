@@ -1,8 +1,8 @@
-Aprendiendo Ruby
+Calculador de IVA
 ================
 - Este proyecto se realizó en un workshop de [Le Wagon](https://www.lewagon.com/ "Le Wagon")
 - **Periodo :** Abril 2021
-> Aprendimos a codear en ruby! .
+> Simulamos un calculador de IVA
 
 **Realizado por :** Sammy Gigi Cantoral Montejo (sgcm14)
 
